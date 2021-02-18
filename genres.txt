@@ -1,0 +1,747 @@
+	1.	bitlate: []
+	2.	 
+	3.	Olive Amun: []
+	4.	 
+	5.	Lorelei: []
+	6.	 
+	7.	The Raconteurs: ['alternative rock', 'garage rock', 'garage rock revival', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'rock', 'supergroup']
+	8.	 
+	9.	edapollo: ['vapor twitch']
+	10.	 
+	11.	Fergus James: ['australian alternative pop', 'australian pop']
+	12.	 
+	13.	Wongo: ['australian house', 'bass house', 'fidget house']
+	14.	 
+	15.	Blak Trash: []
+	16.	 
+	17.	Tycho: ['chillwave', 'downtempo', 'electronica', 'indietronica', 'intelligent dance music']
+	18.	 
+	19.	Saint Sinner: ['downtempo bass']
+	20.	 
+	21.	Margaret Glaspy: ['indie pop']
+	22.	 
+	23.	PVRIS: ['electropop', 'modern alternative rock', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']
+	24.	 
+	25.	Order Sixty6: []
+	26.	 
+	27.	Tones And I: ['australian pop']
+	28.	 
+	29.	Cosmo Sheldrake: ['uk pop']
+	30.	 
+	31.	Red Hearse: []
+	32.	 
+	33.	Millie Turner: ['uk alternative pop']
+	34.	 
+	35.	Jacob Collier: ['indie soul', 'uk alternative pop']
+	36.	 
+	37.	JoJo: ['dance pop', 'hip pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']
+	38.	 
+	39.	Tobe Nwigwe: ['christian hip hop', 'houston rap']
+	40.	 
+	41.	LANELL GRANT: []
+	42.	 
+	43.	Clairo: ['bedroom pop', 'boston indie']
+	44.	 
+	45.	HIRIE: ['jawaiian', 'reggae rock']
+	46.	 
+	47.	Slightly Stoopid: ['reggae fusion', 'reggae rock']
+	48.	 
+	49.	Ninajirachi: ['aussietronica']
+	50.	 
+	51.	Oh Boy: ['aussietronica']
+	52.	 
+	53.	Jonah Yano: []
+	54.	 
+	55.	BADBADNOTGOOD: ['alternative hip hop', 'canadian modern jazz', 'escape room', 'funk', 'hip hop', 'indie soul']
+	56.	 
+	57.	EGOISM: ['sydney indie']
+	58.	 
+	59.	LANY: ['la pop', 'pop']
+	60.	 
+	61.	Psychedelic Porn Crumpets: ['australian garage punk', 'australian psych', 'neo-psychedelic']
+	62.	 
+	63.	Fila Brazillia: ['big beat', 'downtempo', 'electronica', 'jazztronica', 'ninja', 'nu jazz', 'trip hop']
+	64.	 
+	65.	Hazlett: ['brisbane indie', 'indie anthem-folk']
+	66.	 
+	67.	Moon Loves Honey: ['danish indie pop']
+	68.	 
+	69.	Andrew Bird: ['art pop', 'baroque pop', 'chamber pop', 'chicago indie', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'stomp and holler']
+	70.	 
+	71.	Ryan Dominic: []
+	72.	 
+	73.	blink-182: ['pop punk', 'punk', 'socal pop punk']
+	74.	 
+	75.	A R I Z O N A: ['edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']
+	76.	 
+	77.	BUNT.: ['deep tropical house', 'pop edm', 'tropical house']
+	78.	 
+	79.	The Dip: ['deep new americana', 'funk', 'indie folk', 'retro soul']
+	80.	 
+	81.	Audien: ['big room', 'edm', 'electro house', 'electropop', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']
+	82.	 
+	83.	Liam O'Donnell: []
+	84.	 
+	85.	DVNA: ['australian alternative pop']
+	86.	 
+	87.	Pacific Avenue: ['australian garage punk', 'australian indie rock']
+	88.	 
+	89.	Still Woozy: ['bedroom pop', 'modern rock', 'oakland indie', 'pop']
+	90.	 
+	91.	Amadou & Mariam feat. Santigold: []
+	92.	 
+	93.	Santigold: ['alternative dance', 'dance-punk', 'electropop', 'escape room', 'new rave']
+	94.	 
+	95.	BAYNK: ['alternative r&b', 'edm', 'electropop', 'indie electropop', 'indie soul', 'tropical house', 'vapor soul', 'vapor twitch']
+	96.	 
+	97.	Sinead Harnett: ['alternative r&b', 'gauze pop', 'indie r&b', 'indie soul', 'uk contemporary r&b']
+	98.	 
+	99.	Daju: []
+	100.	 
+	101.	Elephant Gym: ['instrumental math rock', 'southeast asian post-rock', 'taiwan indie']
+	102.	 
+	103.	BOI: []
+	104.	 
+	105.	Logic: ['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']
+	106.	 
+	107.	First Beige: ['australian indie rock', 'brisbane indie']
+	108.	 
+	109.	Lil Spacely: ['australian hip hop', 'australian trap']
+	110.	 
+	111.	Big Skeez: ['australian trap']
+	112.	 
+	113.	Rico Pacino: []
+	114.	 
+	115.	Justin Caruso: ['deep tropical house', 'electropop', 'pop dance', 'pop edm']
+	116.	 
+	117.	Mædi: []
+	118.	 
+	119.	Vin Bogart: []
+	120.	 
+	121.	No-uh: []
+	122.	 
+	123.	Jason Price: []
+	124.	 
+	125.	Masked Wolf: ['australian hip hop']
+	126.	 
+	127.	Price: []
+	128.	 
+	129.	J.B. Boone: []
+	130.	 
+	131.	Marmozets: ['british alternative rock', 'modern alternative rock', 'modern rock', 'pixie', 'pop emo']
+	132.	 
+	133.	Guster: ['boston rock', 'neo mellow', 'pop rock']
+	134.	 
+	135.	Lane 8: ['gauze pop', 'progressive house', 'tropical house']
+	136.	 
+	137.	POLIÇA: ['art pop', 'chillwave', 'electropop', 'metropopolis', 'shimmer pop']
+	138.	 
+	139.	Syd Arthur: ['kent indie']
+	140.	 
+	141.	San Mei: ['vapor pop']
+	142.	 
+	143.	Jack Botts: ['australian indie folk', 'indie anthem-folk']
+	144.	 
+	145.	TSHA: ['uk house']
+	146.	 
+	147.	Snarky Puppy: ['contemporary jazz', 'funk rock', 'jazz funk', 'jazz fusion', 'progressive jazz fusion']
+	148.	 
+	149.	SG Lewis: ['alternative r&b', 'edm', 'indie soul', 'pop', 'uk dance', 'vapor soul']
+	150.	 
+	151.	Clairo: ['bedroom pop', 'boston indie']
+	152.	 
+	153.	Allday: ['australian hip hop', 'australian indie', 'australian pop', 'australian trap']
+	154.	 
+	155.	Japanese Wallpaper: ['australian indie', 'indie dream pop']
+	156.	 
+	157.	Bad Bad Hats: ['bubblegrunge', 'indie pop', 'indie rock', 'minneapolis indie']
+	158.	 
+	159.	Above & Beyond: ['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']
+	160.	 
+	161.	Richard Bedford: []
+	162.	 
+	163.	EDEN: ['electropop', 'indie poptimism', 'modern rock', 'pop']
+	164.	 
+	165.	Lupe Fiasco: ['chicago rap', 'conscious hip hop', 'hip hop', 'political hip hop', 'pop rap', 'rap', 'southern hip hop']
+	166.	 
+	167.	Troi Irons: ['indie electropop']
+	168.	 
+	169.	Mr. Popular: []
+	170.	 
+	171.	Tobiahs: ['aussietronica']
+	172.	 
+	173.	TOWNS: ['adelaide indie', 'australian garage punk', 'garage psych']
+	174.	 
+	175.	FKJ: ['filter house', 'indie soul']
+	176.	 
+	177.	Zach Winters: ['christian indie', 'indiecoustica', 'ok indie']
+	178.	 
+	179.	Fenech-Soler: ['alternative dance', 'electrofox', 'indie poptimism', 'metropopolis', 'northamptonshire indie', 'shimmer pop']
+	180.	 
+	181.	Post Malone: ['dfw rap', 'melodic rap', 'rap']
+	182.	 
+	183.	San Cisco: ['australian indie', 'australian pop', 'fremantle indie', 'metropopolis', 'perth indie']
+	184.	 
+	185.	Bop Alloy: ['ambeat']
+	186.	 
+	187.	Substantial: ['ambeat']
+	188.	 
+	189.	Marcus D: ['ambeat', 'chillhop']
+	190.	 
+	191.	Mr. SOS: ['underground rap']
+	192.	 
+	193.	Cise Star: ['ambeat']
+	194.	 
+	195.	MARSHES: []
+	196.	 
+	197.	Jeremy Blake: ['focus beats']
+	198.	 
+	199.	Introvert: ['aussie emo', 'australian post-hardcore', 'newcastle nsw indie']
+	200.	 
+	201.	Sylvan Esso: ['electropop', 'etherpop', 'indie folk', 'indie pop', 'indie rock']
+	202.	 
+	203.	Lime Cordiale: ['australian indie', 'australian pop']
+	204.	 
+	205.	In Love With a Ghost: ['kawaii future bass', 'lo-fi beats']
+	206.	 
+	207.	Nori: []
+	208.	 
+	209.	Liz Bills: []
+	210.	 
+	211.	The Japanese House: ['electropop', 'indie pop', 'indie poptimism', 'indietronica', 'modern dream pop', 'vapor soul']
+	212.	 
+	213.	Interpol: ['alternative dance', 'alternative rock', 'dance-punk', 'indie rock', 'modern rock', 'new rave', 'rock']
+	214.	 
+	215.	Wafia: ['australian indie', 'australian pop']
+	216.	 
+	217.	Hizuru: []
+	218.	 
+	219.	Nujabes: ['chillhop', 'downtempo', 'japanese chillhop', 'jazz rap']
+	220.	 
+	221.	Cise Star: []
+	222.	 
+	223.	Akin: []
+	224.	 
+	225.	YAS: []
+	226.	 
+	227.	Valntn: []
+	228.	 
+	229.	Emilia Ali: []
+	230.	 
+	231.	nøll: []
+	232.	 
+	233.	damnboy!: ['hawaiian hip hop']
+	234.	 
+	235.	The Tech Thieves: ['bass trap', 'modern alternative rock', 'traprun']
+	236.	 
+	237.	Frameworks: []
+	238.	 
+	239.	Spacey Jane: ['australian garage punk', 'australian indie', 'australian indie rock', 'fremantle indie', 'perth indie']
+	240.	 
+	241.	Tame Impala: ['australian psych', 'neo-psychedelic']
+	242.	 
+	243.	Bend Sinister: ['canadian indie', 'kelowna bc indie', 'vancouver indie']
+	244.	 
+	245.	Billie Eilish: ['electropop', 'pop']
+	246.	 
+	247.	Almond Soy: ['australian indie rock']
+	248.	 
+	249.	Sister: []
+	250.	 
+	251.	The Cat Empire: ['australian reggae fusion', 'australian ska', 'ska jazz']
+	252.	 
+	253.	Big Thief: ['art pop', 'brooklyn indie', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'small room', 'stomp and holler']
+	254.	 
+	255.	French 79: ['electronica', 'french indie pop', 'french indietronica', 'new french touch']
+	256.	 
+	257.	Sarah Rebecca: []
+	258.	 
+	259.	The Zolas: ['canadian indie', 'indie rock', 'vancouver indie']
+	260.	 
+	261.	Fractures: ['indie anthem-folk', 'vapor soul']
+	262.	 
+	263.	Timberwolf: ['adelaide indie']
+	264.	 
+	265.	Hooligan Hefs: ['aussie drill', 'australian trap']
+	266.	 
+	267.	Hooligan Skinny: ['aussie drill']
+	268.	 
+	269.	The Album Leaf: ['american post-rock', 'compositional ambient', 'post-rock']
+	270.	 
+	271.	Tune-Yards: ['art pop', 'freak folk', 'indie pop', 'indie rock', 'one-person band']
+	272.	 
+	273.	Ashley Alexander: ['nz pop']
+	274.	 
+	275.	Osvaldorio: ['indonesian edm']
+	276.	 
+	277.	Wiana: []
+	278.	 
+	279.	Galdive: ['indonesian indie']
+	280.	 
+	281.	Kedam: ['new french touch']
+	282.	 
+	283.	Lamalo: []
+	284.	 
+	285.	Kim Ven: ['australian alternative pop']
+	286.	 
+	287.	Great Time: []
+	288.	 
+	289.	Tacky Annie: ['minneapolis indie']
+	290.	 
+	291.	Sam Burchfield: ['deep new americana', 'indiecoustica', 'stomp and holler']
+	292.	 
+	293.	Black Pistol Fire: ['alternative roots rock', 'garage rock', 'modern alternative rock', 'modern blues rock', 'modern hard rock', 'modern rock', 'punk blues', 'rock']
+	294.	 
+	295.	Bonobo: ['downtempo', 'electronica', 'jazztronica', 'ninja', 'nu jazz', 'trip hop']
+	296.	 
+	297.	Maribou State: ['electronica', 'future garage', 'indie soul']
+	298.	 
+	299.	Björk: ['alternative dance', 'art pop', 'dance pop', 'electronica', 'experimental pop', 'experimental vocal', 'icelandic experimental', 'icelandic pop', 'metropopolis', 'permanent wave', 'trip hop']
+	300.	 
+	301.	Teebs: ['bass music', 'chillwave', 'electronica', 'microhouse', 'ninja', 'wonky']
+	302.	 
+	303.	Sudan Archives: ['afrofuturism', 'alternative r&b', 'art pop', 'escape room', 'indie soul', 'la pop']
+	304.	 
+	305.	Apollo Bebop: ['oc indie']
+	306.	 
+	307.	Parisalexa: ['alternative r&b', 'indie r&b']
+	308.	 
+	309.	Quincy Morales: []
+	310.	 
+	311.	Rebecca Hatch: []
+	312.	 
+	313.	Sandy's: []
+	314.	 
+	315.	Mac Miller: ['hip hop', 'pittsburgh rap', 'rap']
+	316.	 
+	317.	Jai Paul: ['art pop', 'chillwave', 'electronica', 'indie soul']
+	318.	 
+	319.	Queen Ifrica: ['dancehall', 'lovers rock', 'modern reggae', 'reggae fusion', 'roots reggae']
+	320.	 
+	321.	Hayley Williams: []
+	322.	 
+	323.	Mint Julep: ['indie dream pop', 'indie shoegaze', 'metropopolis']
+	324.	 
+	325.	Sumner: ['tassie indie']
+	326.	 
+	327.	Queens of the Stone Age: ['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'nu metal', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']
+	328.	 
+	329.	Phoenix: ['alternative dance', 'dance-punk', 'indie pop', 'indie rock', 'modern rock', 'new rave', 'rock', 'rock independant francais']
+	330.	 
+	331.	Broods: ['auckland indie', 'electropop', 'etherpop', 'indie electropop', 'indie pop', 'indie poptimism', 'indietronica', 'metropopolis', 'nz pop', 'pop', 'shimmer pop', 'tropical house', 'vapor soul']
+	332.	 
+	333.	Cro: ['german hip hop', 'german pop', 'pop rap']
+	334.	 
+	335.	Teesy: ['german pop', 'german r&b']
+	336.	 
+	337.	My Brothers And I: ['indie cafe pop', 'indiecoustica']
+	338.	 
+	339.	Cautious Clay: ['alternative r&b', 'chill r&b', 'indie r&b', 'nyc pop', 'pop', 'vapor soul']
+	340.	 
+	341.	isaac gracie: ['indie anthem-folk', 'indie folk']
+	342.	 
+	343.	Hippo Campus: ['indie pop', 'indie poptimism', 'indie rock', 'minneapolis indie', 'modern alternative rock', 'modern rock']
+	344.	 
+	345.	Litany: ['electropop', 'indie electropop', 'indie pop', 'indie poptimism', 'indie soul', 'vapor soul']
+	346.	 
+	347.	JAKE: []
+	348.	 
+	349.	Tunnel Vision: ['modern ska punk']
+	350.	 
+	351.	Angela Hunte: []
+	352.	 
+	353.	Jess Day: ['adelaide indie']
+	354.	 
+	355.	E^ST: ['australian indie', 'australian pop']
+	356.	 
+	357.	il:lo: ['chillstep', 'vapor twitch']
+	358.	 
+	359.	BENEE: ['nz pop', 'pop']
+	360.	 
+	361.	Ruby Fields: ['australian garage punk', 'australian indie', 'australian pop']
+	362.	 
+	363.	Thees Uhlmann: ['german indie', 'german pop', 'german rock']
+	364.	 
+	365.	ROLE MODEL: ['alternative r&b', 'bedroom pop', 'indie cafe pop', 'indie pop', 'pop']
+	366.	 
+	367.	LION BABE: ['alternative r&b', 'escape room', 'indie r&b', 'indie soul', 'neo soul']
+	368.	 
+	369.	Childish Gambino: ['atl hip hop', 'hip hop', 'pop rap', 'rap']
+	370.	 
+	371.	Oddisee: ['alternative hip hop', 'dmv rap', 'hip hop', 'sudanese pop']
+	372.	 
+	373.	The Whitest Boy Alive: ['alternative dance', 'dance-punk', 'electronica', 'new rave']
+	374.	 
+	375.	Hope D: []
+	376.	 
+	377.	The Shang: ['australian indie rock']
+	378.	 
+	379.	Eluera: []
+	380.	 
+	381.	Rainbow Kitten Surprise: ['indie folk', 'indie rock', 'modern alternative rock', 'modern rock', 'stomp and holler']
+	382.	 
+	383.	Pickwick: ['seattle indie']
+	384.	 
+	385.	Bravo: []
+	386.	 
+	387.	Qveen Herby: ['dance pop', 'electropop', 'escape room', 'pop', 'post-teen pop', 'trap queen']
+	388.	 
+	389.	SONTALK: ['nashville indie']
+	390.	 
+	391.	The Expendables: ['reggae rock']
+	392.	 
+	393.	STS9: ['jam band', 'jamtronica', 'livetronica']
+	394.	 
+	395.	London Grammar: ['metropopolis', 'nottingham indie']
+	396.	 
+	397.	Purity Ring: ['art pop', 'canadian electropop', 'chillwave', 'edmonton indie', 'electropop', 'grave wave', 'indietronica', 'metropopolis', 'shimmer pop', 'vapor soul']
+	398.	 
+	399.	Bad Snacks: ['downtempo bass']
+	400.	 
+	401.	Tom Misch: ['indie soul', 'jazz pop']
+	402.	 
+	403.	Carmody: ['british soul', 'uk alternative pop']
+	404.	 
+	405.	Vetta Borne: []
+	406.	 
+	407.	RÜFÜS DU SOL: ['australian electropop', 'edm', 'indietronica']
+	408.	 
+	409.	Mia Rodriguez: []
+	410.	 
+	411.	Télépopmusik: ['downtempo', 'electronica', 'nu jazz', 'trip hop']
+	412.	 
+	413.	Juice Aleem: ['birmingham hip hop']
+	414.	 
+	415.	Catastrophe & Cure: ['vienna indie']
+	416.	 
+	417.	Love Supreme: []
+	418.	 
+	419.	Suckers: ['baroque pop', 'brooklyn indie']
+	420.	 
+	421.	Kishi Bashi: ['indie folk', 'indie pop', 'metropopolis', 'shimmer pop', 'stomp and holler', 'stomp and whittle']
+	422.	 
+	423.	Flipturn: ['jacksonville indie', 'modern rock']
+	424.	 
+	425.	Man Man: ['freak folk', 'philly indie', 'stomp and holler']
+	426.	 
+	427.	Nothing But Thieves: ['alternative pop rock', 'modern alternative rock', 'modern rock', 'rock']
+	428.	 
+	429.	Nardean: []
+	430.	 
+	431.	Austin Millz: []
+	432.	 
+	433.	Pell: ['underground hip hop']
+	434.	 
+	435.	L'Impératrice: ['french indie pop', 'french indietronica', 'french synthpop', 'indie soul', 'new french touch']
+	436.	 
+	437.	Self Tape: []
+	438.	 
+	439.	Bremer/McCoy: ['danish jazz', 'danish modern jazz']
+	440.	 
+	441.	Hayfitz: []
+	442.	 
+	443.	Mija: ['electra']
+	444.	 
+	445.	Dirty Heads: ['reggae fusion', 'reggae rock']
+	446.	 
+	447.	Kaleida: ['electropop', 'metropopolis', 'vapor pop']
+	448.	 
+	449.	Planet Vegeta: []
+	450.	 
+	451.	La Belle Vie: ['new french touch']
+	452.	 
+	453.	YONAS: ['deep underground hip hop', 'indie pop rap', 'pop rap']
+	454.	 
+	455.	SwuM: ['chillhop', 'lo-fi beats']
+	456.	 
+	457.	JAWS: ['birmingham indie', 'english indie rock', 'modern alternative rock', 'modern rock']
+	458.	 
+	459.	Witt Lowry: ['pop rap']
+	460.	 
+	461.	RJD2: ['alternative hip hop', 'big beat', 'electronica', 'hip hop', 'jazztronica', 'ninja', 'nu jazz', 'turntablism']
+	462.	 
+	463.	Pinback: ['indie pop', 'indie rock']
+	464.	 
+	465.	Winston Surfshirt: ['australian indie', 'australian pop', 'indie soul']
+	466.	 
+	467.	Timecop1983: ['cyberpunk', 'synthwave']
+	468.	 
+	469.	The Bad Dreamers: ['popwave', 'spacewave', 'synthwave']
+	470.	 
+	471.	Owl Eyes: ['australian alternative pop', 'australian indie', 'shimmer pop']
+	472.	 
+	473.	KVKA: []
+	474.	 
+	475.	Röyksopp: ['alternative dance', 'big beat', 'downtempo', 'electronica', 'electropop', 'trip hop']
+	476.	 
+	477.	Maude Latour: ['indie pop', 'nyc pop']
+	478.	 
+	479.	Flobots: ['comic', 'conscious hip hop']
+	480.	 
+	481.	Night Tales: ['australian dance']
+	482.	 
+	483.	Sweater Curse: ['australian garage punk', 'brisbane indie']
+	484.	 
+	485.	Nadamondi: []
+	486.	 
+	487.	Little Simz: ['escape room', 'indie soul', 'trap queen', 'uk alternative hip hop']
+	488.	 
+	489.	The Staple Singers: ['chicago soul', 'classic soul', 'funk', 'memphis soul', 'motown', 'quiet storm', 'soul', 'southern soul']
+	490.	 
+	491.	The Seige: ['cali rap', 'modern alternative rock']
+	492.	 
+	493.	Big Freedia: ['bounce', 'escape room', 'lgbtq+ hip hop', 'new orleans rap', 'trap queen']
+	494.	 
+	495.	Lizzo: ['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'pop dance', 'pop rap', 'trap queen']
+	496.	 
+	497.	Black Pumas: ['retro soul']
+	498.	 
+	499.	Gaël Faye: ['french indie pop', 'french indietronica', 'new french touch']
+	500.	 
+	501.	Dom La Nena: ['nova mpb']
+	502.	 
+	503.	Rosemary Standley: []
+	504.	 
+	505.	Birds on a Wire: []
+	506.	 
+	507.	The Prussians: ['spanish modern rock']
+	508.	 
+	509.	Poolside: ['alternative dance', 'indie soul', 'new rave', 'nu disco']
+	510.	 
+	511.	Amo Amo: ['la pop']
+	512.	 
+	513.	Two Friends: ['edm', 'electropop', 'pop dance', 'pop edm', 'tropical house']
+	514.	 
+	515.	MAX: ['dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']
+	516.	 
+	517.	Portico Quartet: ['british jazz', 'compositional ambient', 'contemporary jazz', 'electronica', 'jazz quartet', 'new tribe', 'nu jazz']
+	518.	 
+	519.	Watsky: ['abstract hip hop', 'comic', 'modern rock', 'pop rap']
+	520.	 
+	521.	Adam Newling: []
+	522.	 
+	523.	Closure: []
+	524.	 
+	525.	George Alice: []
+	526.	 
+	527.	NASAYA: []
+	528.	 
+	529.	Dharmarat: []
+	530.	 
+	531.	Almac: []
+	532.	 
+	533.	Kllo: ['alternative r&b', 'aussietronica', 'electropop', 'indie electropop', 'indie soul', 'vapor soul']
+	534.	 
+	535.	Lastlings: ['alternative dance', 'vapor soul']
+	536.	 
+	537.	Bread Club: ['australian indie']
+	538.	 
+	539.	Phil Fresh: ['australian trap']
+	540.	 
+	541.	Palatine: ['rock independant francais']
+	542.	 
+	543.	Jay Som: ['art pop', 'bay area indie', 'chillwave', 'indie folk', 'indie pop', 'indie rock', 'oakland indie', 'small room']
+	544.	 
+	545.	Japanese Breakfast: ['art pop', 'bubblegrunge', 'eugene indie', 'indie pop', 'indie rock', 'philly indie']
+	546.	 
+	547.	Angie McMahon: ['australian indie', 'australian pop']
+	548.	 
+	549.	Slightly Stoopid: ['reggae fusion', 'reggae rock']
+	550.	 
+	551.	Sir Woman: ['austindie', 'pop soul']
+	552.	 
+	553.	Speak Easy: ['st petersburg fl indie']
+	554.	 
+	555.	The Bubbles: []
+	556.	 
+	557.	Andre Nickatina: ['gangster rap', 'hyphy', 'west coast rap', 'west coast trap']
+	558.	 
+	559.	BLOW: []
+	560.	 
+	561.	Ibrahim Maalouf: ['arabic jazz', 'french jazz', 'jazz trumpet']
+	562.	 
+	563.	Hayden James: ['aussietronica', 'edm', 'gauze pop', 'house', 'indie soul', 'pop dance', 'tropical house']
+	564.	 
+	565.	Icona Pop: ['candy pop', 'dance pop', 'electropop', 'metropopolis', 'pop', 'pop dance', 'swedish electropop', 'swedish synthpop']
+	566.	 
+	567.	The Venus Project: ['nz pop']
+	568.	 
+	569.	Tritonal: ['big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance', 'trance', 'tropical house', 'uplifting trance']
+	570.	 
+	571.	Skyler Stonestreet: []
+	572.	 
+	573.	박혜진 Park Hye Jin: ['korean dream pop']
+	574.	 
+	575.	will hyde: []
+	576.	 
+	577.	Bad Suns: ['indie pop', 'indie poptimism', 'indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock']
+	578.	 
+	579.	dodie: ['indie cafe pop', 'indie pop', 'pop']
+	580.	 
+	581.	Polyphia: ['instrumental rock']
+	582.	 
+	583.	Vallis Alps: ['australian indie', 'electropop', 'vapor soul']
+	584.	 
+	585.	Christian Löffler: ['electronica', 'hamburg electronic', 'microhouse', 'minimal techno', 'new french touch', 'organic electronic', 'pop ambient']
+	586.	 
+	587.	Noy: []
+	588.	 
+	589.	Sophiegrophy: ['australian hip hop']
+	590.	 
+	591.	Paramore: ['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']
+	592.	 
+	593.	Modjo: ['disco house', 'filter house', 'vocal house']
+	594.	 
+	595.	Fazıl Say: ['classical piano', 'turkish classical performance', 'turkish jazz']
+	596.	 
+	597.	Belle Chen: ['taiwan classical performance']
+	598.	 
+	599.	JVLY: ['australian electropop']
+	600.	 
+	601.	Smoke Season: ['vapor pop']
+	602.	 
+	603.	beabadoobee: ['bedroom pop', 'bubblegrunge', 'indie pop']
+	604.	 
+	605.	Tash Sultana: ['australian reggae fusion']
+	606.	 
+	607.	Laura Misch: ['indie jazz', 'indie soul']
+	608.	 
+	609.	Metric: ['alternative dance', 'canadian indie', 'canadian rock', 'dance-punk', 'electropop', 'indie pop', 'indie rock', 'indietronica', 'metropopolis', 'modern rock', 'neo-synthpop', 'new rave', 'rock', 'shimmer pop']
+	610.	 
+	611.	IJALE: []
+	612.	 
+	613.	Zephyrrgreene: []
+	614.	 
+	615.	Inspired Flight: []
+	616.	 
+	617.	Photay: ['chillwave', 'indie jazz', 'wonky']
+	618.	 
+	619.	WHARVES: ['australian indie rock']
+	620.	 
+	621.	Lafa Taylor: []
+	622.	 
+	623.	Medium Troy: []
+	624.	 
+	625.	Saving Escape: []
+	626.	 
+	627.	Goodie Mob: ['alternative hip hop', 'atl hip hop', 'conscious hip hop', 'dirty south rap', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']
+	628.	 
+	629.	KRS-One: ['alternative hip hop', 'bronx hip hop', 'conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'political hip hop', 'rap', 'turntablism']
+	630.	 
+	631.	Common: ['alternative hip hop', 'chicago rap', 'conscious hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'neo soul', 'political hip hop', 'rap', 'southern hip hop']
+	632.	 
+	633.	CYNE: ['ambeat', 'jazz rap', 'underground rap']
+	634.	 
+	635.	Six City: []
+	636.	 
+	637.	Ryan Nealon: []
+	638.	 
+	639.	Mr.Kitty: []
+	640.	 
+	641.	Echos: ['electropop', 'indie electropop', 'indie poptimism']
+	642.	 
+	643.	Lucy Dacus: ['art pop', 'bubblegrunge', 'indie folk', 'indie pop', 'indie rock']
+	644.	 
+	645.	More Fatter: []
+	646.	 
+	647.	clipping.: ['alternative hip hop', 'escape room', 'experimental hip hop', 'industrial hip hop']
+	648.	 
+	649.	Anna Calvi: ['art pop', 'chamber psych']
+	650.	 
+	651.	Alabaster DePlume: ['chamber psych', 'fourth world', 'indie folk', 'indie jazz', 'uk contemporary jazz']
+	652.	 
+	653.	Ali Farka Touré: ['afrobeat', 'afropop', 'desert blues', 'malian blues', 'mande pop', 'world']
+	654.	 
+	655.	Ry Cooder: ['blues', 'blues rock', 'country blues', 'country rock', 'folk', 'folk rock', 'mellow gold', 'piedmont blues', 'roots rock', 'singer-songwriter', 'traditional folk']
+	656.	 
+	657.	Bahamas: ['canadian indie', 'indie folk', 'indie pop', 'new americana', 'stomp and holler']
+	658.	 
+	659.	Mark Tarmonea: ['german house']
+	660.	 
+	661.	Yannek Maunz: []
+	662.	 
+	663.	Louis The Child: ['edm', 'electropop', 'pop', 'pop dance', 'tropical house']
+	664.	 
+	665.	Ashe: ['electropop', 'indie pop', 'pop']
+	666.	 
+	667.	The Naked And Famous: ['alternative dance', 'auckland indie', 'electropop', 'indie pop', 'indie rock', 'indietronica', 'kiwi rock', 'metropopolis', 'modern rock', 'shimmer pop']
+	668.	 
+	669.	Pete Fountain: ['dixieland', 'jazz clarinet', 'new orleans jazz']
+	670.	 
+	671.	The Fretless: ['irish neo-traditional']
+	672.	 
+	673.	Jaguar Jonze: ['brisbane indie']
+	674.	 
+	675.	Teenage Dads: ['australian garage punk']
+	676.	 
+	677.	Emancipator: ['downtempo', 'electronica', 'livetronica', 'trip hop']
+	678.	 
+	679.	Hazy: []
+	680.	 
+	681.	Narli: []
+	682.	 
+	683.	JK-47: ['australian hip hop']
+	684.	 
+	685.	HÆLOS: ['alternative dance', 'electronica']
+	686.	 
+	687.	Orville Peck: ['alternative country', 'queer country']
+	688.	 
+	689.	AYA YVES: []
+	690.	 
+	691.	Philippe Katerine: ['chanson', 'french indie pop', 'french indietronica', 'french rock', 'nouvelle chanson francaise']
+	692.	 
+	693.	Angèle: ['belgian pop', 'variete francaise']
+	694.	 
+	695.	Chilly Gonzales: ['neo-classical']
+	696.	 
+	697.	Pantha Du Prince: ['electronica', 'hamburg electronic', 'microhouse', 'minimal techno']
+	698.	 
+	699.	Dumbfoundead: ['asian american hip hop', 'battle rap', 'k-rap']
+	700.	 
+	701.	Wax: []
+	702.	 
+	703.	Breezy Lovejoy: []
+	704.	 
+	705.	CamelPhat: ['deep tech house', 'disco house', 'edm', 'house', 'pop dance', 'progressive house', 'tropical house']
+	706.	 
+	707.	LOWES: []
+	708.	 
+	709.	Cherry Tomato: []
+	710.	 
+	711.	Khruangbin: ['neo-psychedelic']
+	712.	 
+	713.	Memphis LK: []
+	714.	 
+	715.	Ólafur Arnalds: ['bow pop', 'compositional ambient', 'icelandic classical', 'neo-classical', 'neoclassical darkwave']
+	716.	 
+	717.	KOAN Sound: ['complextro', 'edm', 'electro house', 'filthstep', 'glitch']
+	718.	 
+	719.	Typhoon: ['indie pop', 'portland indie', 'stomp and holler']
+	720.	 
+	721.	Cherry Coke: []
+	722.	 
+	723.	Lady Lamb: ['indie pop', 'indie rock', 'indie singer-songwriter', 'maine indie']
+	724.	 
+	725.	Denzel Curry: ['dark trap', 'drill', 'hip hop', 'miami hip hop', 'rap', 'trap', 'underground hip hop']
+	726.	 
+	727.	Kenny Beats: ['trap', 'underground hip hop']
+	728.	 
+	729.	MAXINE: []
+	730.	 
+	731.	Stick Figure: ['reggae fusion']
+	732.	 
+	733.	Stablemate: []
+	734.	 
+	735.	Lucy Sugerman: []
+	736.	 
+	737.	Ariana Grande: ['pop', 'post-teen pop']
+	738.	 
+	739.	ONR: ['scottish indie']
+	740.	 
+	741.	Sarah Barthel: []
+	742.	 
+	743.	Phantogram: ['alternative dance', 'chillwave', 'dream pop', 'electropop', 'indie pop', 'indie rock', 'indietronica', 'metropopolis', 'modern rock', 'shimmer pop', 'vapor soul']
+	744.	 
+	745.	Lykke Li: ['art pop', 'dance pop', 'electropop', 'pop', 'swedish electropop', 'swedish indie pop', 'swedish pop']
+	746.	 
+	747.	Goth Babe: ['indie garage rock', 'indie pop', 'indie rock', 'modern rock', 'vapor soul'] 
